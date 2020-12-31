@@ -12,6 +12,6 @@
 	<img src="https://github-readme-stats.vercel.app/api?username=pgthakur&&show_icons=true">
 	<hr>
 	<li> <b>👨‍💻Technology & Tools:</b></li>
-	<img src="https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fdeveloper.apple.com%2Fswift%2F&psig=AOvVaw3kIvsvDt1U6REQzZtAgpx0&ust=1609501588513000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjbyOWS-O0CFQAAAAAdAAAAABAD" alt="swift">
+	<b>swift | C | C++ | HTML5 | CSS | python | Git</b>
 	
  
