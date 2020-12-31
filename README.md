@@ -10,4 +10,7 @@
 - ⚡ Fun fact:<b> I worked hard to create this README.md</b>
 	<li>📈<b> Github stats</b></li>
 	<img src="https://github-readme-stats.vercel.app/api?username=pgthakur&&show_icons=true">
+	<hr>
+	<li>Technology & Tools</li>
+	
  
