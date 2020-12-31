@@ -8,6 +8,6 @@
 - 📫 How to reach me:<a href="thakurpg9@gmail.com">thakurpg9@gmail.com<a>
 - 😄 Pronouns:pg
 - ⚡ Fun fact:<b> I worked hard to create this README.md</b>
--📈<b> Github stats</b>
+	<li>-📈<b> Github stats</b></li>
 	<img src=" https:/github-readme-stats.vercel.app/api?username=pgthakur&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
  
