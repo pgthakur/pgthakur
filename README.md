@@ -11,6 +11,7 @@
 	<li>📈<b> Github stats</b></li>
 	<img src="https://github-readme-stats.vercel.app/api?username=pgthakur&&show_icons=true">
 	<hr>
-	<li> 👨‍💻Technology & Tools</li>
+	<li> <b>👨‍💻Technology & Tools:</b></li>
+	<img src="https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHTML5&psig=AOvVaw0eSsZNOSBNUFmSnrxHBh6p&ust=1609501111893000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDisoKR-O0CFQAAAAAdAAAAABAp">
 	
  
