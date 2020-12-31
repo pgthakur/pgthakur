@@ -12,6 +12,6 @@
 	<img src="https://github-readme-stats.vercel.app/api?username=pgthakur&&show_icons=true">
 	<hr>
 	<li> <b>👨‍💻Technology & Tools:</b></li>
-	<img src="/Users/prabhatgaurav/Downloads/swift.jpg">
+	<img src="swift.jpg" alt="swift">
 	
  
