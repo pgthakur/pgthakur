@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning<b> ML/AI</b>
 - 👯 I’m looking to collaborate on<b> ios project</b>
 - 💬 Ask me about <b>anything</b>
-- 📫 How to reach me:<a href="thakurpg9@gmail.com"><img src="https://commons.wikimedia.org/wiki/File:Gmail_icon_(2020).svg#/media/File:Gmail_icon_(2020).svg" alt="Gmail"><a>
+- 📫 How to reach me:<a href="thakurpg9@gmail.com"><b>Gmail</b></a>&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/prabhat-gaurav-600053195/"><b>Linkedin</b></a>&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;
 - 😄 Pronouns:pg
 - ⚡ Fun fact:<b> I worked hard to create this README.md</b>
 	<li>📈<b> Github stats</b></li>
