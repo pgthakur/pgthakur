@@ -8,7 +8,7 @@
 - 📫 How to reach me:<a href="mailto:thakurpg9@gmail.com"><b>Gmail</b></a>&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/prabhat-gaurav-600053195/"><b>Linkedin</b></a>&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;<a href="https://twitter.com/PrabhatGaurav09"><b>Twitter</b></a>&nbsp;&nbsp;
 - 😄 Pronouns:***pg***
 - ⚡ Fun fact:<b> I want to become a politician.</b>
-	<li>📈<b> Github stats</b></li>
+	<li>📈<b> Github stats:</b></li>
 	<img src="https://github-readme-stats.vercel.app/api?username=pgthakur&&show_icons=true">
 	<hr>
 	<li> <b>👨‍💻Technology & Tools:</b></li>
