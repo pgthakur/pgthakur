@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on <b>Xcode project</b>
-- 🌱 I’m currently learning<b> ML/AI</b>
+- 🌱 I’m currently learning<b> ML/AI/Data Science</b>
 - 👯 I’m looking to collaborate on<b> ios project</b>
 - 💬 Ask me about <b>anything</b>
 - 📫 How to reach me: <a href="mailto:thakurpg9@gmail.com"><b>Gmail</b></a>&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/prabhat-gaurav-600053195/"><b>Linkedin</b></a>&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;<a href="https://twitter.com/PrabhatGaurav09"><b>Twitter</b></a>&nbsp;&nbsp;
